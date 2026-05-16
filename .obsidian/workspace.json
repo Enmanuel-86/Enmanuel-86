@@ -6,6 +6,7 @@
       {
         "id": "a8bf1e9856ddd784",
         "type": "tabs",
+        "dimension": 52.33380480905233,
         "children": [
           {
             "id": "5fdf46af161103d5",
@@ -27,16 +28,51 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Base_de_dato_MySQL.md",
+                "file": "GIT-Y-GITHUB.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT-Y-GITHUB"
+            }
+          },
+          {
+            "id": "a9a56101d9831e63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT-Y-GITHUB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Base_de_dato_MySQL"
+              "title": "GIT-Y-GITHUB"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "af78c8589f137062",
+        "type": "tabs",
+        "dimension": 47.66619519094767,
+        "children": [
+          {
+            "id": "cdfeefd332e5f3ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GIT-Y-GITHUB.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GIT-Y-GITHUB"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +104,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#GIT",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -109,7 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Base_de_dato_MySQL.md",
+                "file": "GIT-Y-GITHUB.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +155,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de Base_de_dato_MySQL"
+              "title": "Enlaces entrantes de GIT-Y-GITHUB"
             }
           },
           {
@@ -198,9 +234,13 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "ee8c2df9d7039889",
+  "active": "a9a56101d9831e63",
   "lastOpenFiles": [
+    "Sin título.md",
+    "BASE-DE-DATOS.md",
     "README.md",
-    "Base_de_dato_MySQL.md"
+    "GIT-Y-GITHUB.md",
+    "2026-05-16.md",
+    "Sin título.canvas"
   ]
 }
