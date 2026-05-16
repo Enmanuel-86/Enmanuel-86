@@ -1,7 +1,10 @@
 
-<img src="https://images.icon-icons.com/2415/PNG/512/git_original_logo_icon_146509.png" alt = "logo de git" height= "40px" width= "40px"> <b style="font-size:40px;">GIT</b>
-<hr>
-**GIT** es un controlador de versiones de nuestros repositorios locales
+<img src="https://images.icon-icons.com/2415/PNG/512/git_original_logo_icon_146509.png" alt = "logo de git" height= "40px" width= "40px"> <b style="font-size:50px;">GIT</b>
+
+
+
+**GIT** es un controlador de versiones de nuestros repositorios locales.
+
 
 ## Configuraciones Iniciales en GIT 
 
