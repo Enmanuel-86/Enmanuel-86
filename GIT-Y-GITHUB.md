@@ -18,7 +18,22 @@ Para registrar nuestro usuario en la PC en donde tengamos GIT debemos saber que 
 
 ### Empezaremos con la configuración inicial
 
-1. Colocaremos primero el usuario que usaremos:
+1. Configuración del nombre de usuario:
 		
-		git config --global user.name [Nombre-de-usuario]
+		git config --global user.name <Nombre-de-usuario>
+		
+2. Configuración del correo:
 
+		git config --global user.email "<correo>"
+
+3. configuración del core.autocrlf:
+
+	Dependiendo del sistema operativo la configuración es distinta
+
+	- Para Windows usamos **TRUE
+	
+			git config --global core.autocrlf true
+
+	- Para linux usaremos **INPUT
+
+			git config --global core.autocrlf input
