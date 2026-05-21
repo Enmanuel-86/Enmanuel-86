@@ -25,7 +25,7 @@
 ## 🛠️ Languages & Tools
 
 > ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /><img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d8db7df3-eed9-477a-9352-1e0f34f31677/de5xpw6-2efaf2a1-29a1-48a5-942e-52579063ef55.png/v1/fill/w_282,h_282/mysql_workbench_icon_by_dagomx_de5xpw6-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MjgyIiwicGF0aCI6Ii9mL2Q4ZGI3ZGYzLWVlZDktNDc3YS05MzUyLTFlMGYzNGYzMTY3Ny9kZTV4cHc2LTJlZmFmMmExLTI5YTEtNDhhNS05NDJlLTUyNTc5MDYzZWY1NS5wbmciLCJ3aWR0aCI6Ijw9MjgyIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmltYWdlLm9wZXJhdGlvbnMiXX0.oDX_ZoKRKQDRFaY0norWmFj5Ni0jAFbj606R006lDL4" alt="Mysql" width="48" height="48" style="margin: 4px ;"   /></p>
 
 > ## Tools
 <p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /></p>
